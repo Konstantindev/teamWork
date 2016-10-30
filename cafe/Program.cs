@@ -11,6 +11,7 @@ namespace cafe
         static void Main(string[] args)
         {
             Console.WriteLine("Team Work!");
+            Console.WriteLine("new one");
         }
     }
 }
